@@ -7,6 +7,12 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '659b20a7-a07b-455a-b310-222131340a45',
+    name: 'Vitor Marinheiro',
+    email: 'suporte2@hebrombeneficios.com.br',
+    password: 'hebrom@1234',
+  },
 ];
 
 const customers = [
