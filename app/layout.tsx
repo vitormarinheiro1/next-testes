@@ -4,11 +4,11 @@ import { Metadata } from 'next';
  
 export const metadata: Metadata = {
   title: {
-    template: '%s | Acme Dashboard',
-    default: 'Acme Dashboard',
+    template: '%s | Hebrom Dashboard',
+    default: 'Hebrom Dashboard',
   },
-  description: 'The official Next.js Learn Dashboard built with App Router.',
-  metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
+  description: 'A melhor administradora do seu plano de saúde da atualidade.',
+  metadataBase: new URL('https://hebrombeneficios.com.br'),
 };
 
 export default function RootLayout({
